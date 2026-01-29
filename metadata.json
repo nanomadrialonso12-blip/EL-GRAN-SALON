@@ -1,0 +1,7 @@
+{
+  "name": "El Gran Salón: Productividad de Caballero",
+  "description": "Una aplicación de productividad y bienestar de temática medieval donde subes de nivel tu vida a través del estudio, el ejercicio y las hazañas sociales.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
